@@ -1,0 +1,8 @@
+# system
+.next
+
+# packages
+node_modules
+
+# workspace
+*.code-workspace

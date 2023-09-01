@@ -1,0 +1,9 @@
+{
+    "importOrder": ["^api/(.*)$", "^layouts/(.*)$", "^components/(.*)$", "^[./]"],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "printWidth": 120,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "semi": true
+}

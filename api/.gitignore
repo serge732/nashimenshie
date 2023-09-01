@@ -1,0 +1,14 @@
+# logs
+logs
+
+# execution
+*.exe
+
+# air lib
+tmp
+
+# environments
+*.env
+
+# workscape
+*.code-workspace

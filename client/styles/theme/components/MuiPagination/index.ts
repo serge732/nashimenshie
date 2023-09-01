@@ -1,0 +1,1 @@
+export { MuiPagination } from './MuiPagination';
